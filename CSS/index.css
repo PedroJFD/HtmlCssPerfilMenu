@@ -1,0 +1,71 @@
+
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+div{
+    background-color: rgb(32, 32, 32);
+    width: 18%;
+    height: auto;
+    margin: auto;
+    padding: 50px;
+    margin-top: 8%;
+    text-align: center;
+    padding-bottom: 15px;
+    border-radius: 8px;
+}
+
+.corbranca{
+    color: white;
+}
+
+.corverde{
+    color: rgb(189, 253, 93);
+}
+
+button{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+h2{
+    font-size: medium;
+}
+
+p{
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+button:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    margin-top: 30px;
+    font-size: 140%;
+}
